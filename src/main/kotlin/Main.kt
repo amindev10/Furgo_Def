@@ -6,6 +6,7 @@ fun main(){
     println("El valor inicial de tu furgo es: ")
 }
 
+
 fun benvinguda(){
     println("Bienvenido/a a la aplicación de cálculo del valor de tu querida furgo Volkswagen Gran California")
     println("1. Volkswagen Gran California")

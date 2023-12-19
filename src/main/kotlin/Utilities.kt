@@ -2,6 +2,7 @@ import java.util.*
 
 val scan: Scanner = Scanner(System.`in`)
 
+
 /**
  * This method can be used to read a String word value from the user through keyboard using java.util.Scanner
  * @author raimon.izard

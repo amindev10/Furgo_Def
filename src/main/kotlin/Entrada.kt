@@ -5,6 +5,7 @@ fun readInt(pMessage : String, pMin : Int, pMax : Int) : Int{
     val scan : Scanner = Scanner(System.`in`)
     var correctType : Boolean = false
 
+
     do{
         println(pMessage)
         correctType = scan.hasNextInt()

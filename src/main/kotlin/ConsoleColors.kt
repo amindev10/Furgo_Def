@@ -1,6 +1,7 @@
 // Reset
 const val RESET: String = "\u001b[0m" // Text Reset
 
+
 // Regular Colors
 const val BLACK: String = "\u001b[0;30m" // BLACK
 const val RED: String = "\u001b[0;31m" // RED

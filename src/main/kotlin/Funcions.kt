@@ -6,6 +6,7 @@ fun calcularPreuBase(normal:Boolean): Double {
     else return preu+20000
 }
 
+
 fun calcularPreuActual(normal:Boolean, kmFurgo:Long, kmNeumaticos:Long):Double{
     val valorFurgo= calcularPreuBase(normal)
     val depreciacion= kmFurgo*0.00001
